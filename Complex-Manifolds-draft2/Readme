@@ -1,4 +1,9 @@
 
 This is a new prototype of a complex manifolds algorithm that can calculate integrals and derivatives, using Toroidal coordinates and several complex
 variables theory to do it, mainly using Hyperbolic methods to achieve this (although it can be adapted to use Parabolic, Elliptic or any combination
-of these too).
+of these too). This is all going to be working using Nvidia CUDA (at the time this draft was created the version was 11.7, with g++-12 as the host compiler
+on Ubuntu 22.04, using C++ 14 at most).
+
+This software can be modified, distributed, or otherwise used as long as I can have the credit for what is used from it.
+
+Thomas N Toseland.
