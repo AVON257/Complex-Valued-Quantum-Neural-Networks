@@ -4,6 +4,8 @@ variables theory to do it, mainly using Hyperbolic methods to achieve this (alth
 of these too). This is all going to be working using Nvidia CUDA (at the time this draft was created the version was 11.7, with g++-12 as the host compiler
 on Ubuntu 22.04, using C++ 14 at most).
 
+https://en.wikipedia.org/wiki/Toroidal_coordinates
+
 This software can be modified, distributed, or otherwise used as long as I can have the credit for what is used from it.
 
 Thomas N Toseland.
