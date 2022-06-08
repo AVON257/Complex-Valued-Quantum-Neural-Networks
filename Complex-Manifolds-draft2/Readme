@@ -1,1 +1,4 @@
 
+This is a new prototype of a complex manifolds algorithm that can calculate integrals and derivatives, using Toroidal coordinates and several complex
+variables theory to do it, mainly using Hyperbolic methods to achieve this (although it can be adapted to use Parabolic, Elliptic or any combination
+of these too).
