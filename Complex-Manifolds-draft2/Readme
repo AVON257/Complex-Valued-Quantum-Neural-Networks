@@ -16,3 +16,6 @@ Vector elements, in Torus.hxx on the different coordinates.
 Note that I will shortly be replacing this with one where you can either
 Manually enter the data from keyboard input (for Cartesian coordinates), or
 Read in a file.
+
+P.p.s. this will be updated shortly to work with a differentiation loop,
+Using the Wolfram definition on toroidal coordinates, not Wikipedia.
