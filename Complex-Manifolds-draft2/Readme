@@ -9,3 +9,10 @@ https://en.wikipedia.org/wiki/Toroidal_coordinates
 This software can be modified, distributed, or otherwise used as long as I can have the credit for what is used from it.
 
 Thomas N Toseland.
+
+P.s. in its current form, please specify the
+Vector elements, in Torus.hxx on the different coordinates.
+
+Note that I will shortly be replacing this with one where you can either
+Manually enter the data from keyboard input (for Cartesian coordinates), or
+Read in a file.
