@@ -7,3 +7,5 @@ both Quantum Computing Technology and Complex Manifolds.
 Permission here is granted to use, modify or distribute the resources I have shown here, provided that I am given credit for the work in which I have done.
 
 Thomas Nathaniel Toseland.
+
+P.S. I would like to offer due credit to the original authors when appropriate, and I have attempted to link that information into the relevant files here.
