@@ -5,3 +5,5 @@ I am currently adding in new projects on this, in particular on complex valued B
 both Quantum Computing Technology and Complex Manifolds.
 
 Permission here is granted to use, modify or distribute the resources I have shown here, provided that I am given credit for the work in which I have done.
+
+Thomas Nathaniel Toseland.
