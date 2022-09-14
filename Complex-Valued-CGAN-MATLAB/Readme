@@ -1,1 +1,6 @@
 
+This was an attempt to create a complex valued conditional GAN using MATLAB to do it, and the results are shown in the .doc file in the same folder as this 
+README file is.
+
+I offer due credit to the original authors at MathWorks as I did not create the original file, instead I just modified it to use complex variables rather
+than real ones. https://uk.mathworks.com/help/deeplearning/ug/train-conditional-generative-adversarial-network.html [online] (accessed 15/09/2022).
