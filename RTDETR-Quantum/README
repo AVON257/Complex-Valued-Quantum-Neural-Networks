@@ -7,3 +7,5 @@ It was developed on a RTX3090 GPU (and only 1 of it).
 
 Finally please copy the neural network folder from here and then paste it into the ultralytics folder in order to use it, once that is done then you just need to type pip install ./path-to-ultralytics folder.
 That will install the Ultralytics package with these modifications, but I would like to point out that I did not actually create the Ultralytics package, what I have done however is modify it to use certain simulated quantum circuits to attempt to improve its detection capabilities such as on the transformer layers such as the ones used in RTDETR (E.g. HGBlock).
+
+Note that this does NOT contain the whole Ultralytics package at this time, but it does contain the necessary modified parts of it needed to make this algorithm work.
