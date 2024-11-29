@@ -1,4 +1,7 @@
 This is the source code and some results from a modified version of the Ultralytics package with YOLO11 and RTDETR in it.
+https://github.com/ultralytics/ultralytics 
+
+I offer full credit to Ultralytics for their work on this package including both YOLO11 and RTDETR, but I claim the credit for implementing the modified quantum circuits which have been used to make this particular version of the algorithms work.
 
 Please install Pennylane, Pennylane lightning, lightning tensor, pytorch and other standard requirements to use it.
 Please also note that Nvidia CU-Quantum can help with this particular work, although it can in theory be used on AMD hardware in much the same way as the ordinary Ultralytics package can, this has not been tested at the time of writing.
