@@ -1,0 +1,6 @@
+This is the source code and some results from a modified version of the ultralytics package with YOLO11 and RTDETR in it.
+
+Please install Pennylane, Pennylane lightning, lightning tensor, pytorch and other standard requirements to use it.
+Please also note that Nvidia CU-Quantum can help with this particular work, although it can in theory be used on AMD hardware in much the same way as the ordinary ultralytics package can, this has not been tested at the time of writing.
+
+It was developed on a RTX3090 GPU (and only 1 of it).
