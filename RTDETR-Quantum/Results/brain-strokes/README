@@ -1,3 +1,5 @@
-I have attached here some of the older results preliminary results from my research, into adapating ultralytics (e.g YOLO11 detect, segment, OBB etc) to use Quantum circuits.
+I have attached here some of the older results preliminary results from my research, into adapting ultralytics (e.g YOLO11 detect, segment, OBB etc) to use Quantum circuits.
 
 These particular ones are on brain strokes, using this dataset: https://universe.roboflow.com/hrushikesh-p4mmt/brain-stroke-gxdtk/dataset/3 [online] (accessed 29/11/2024).
+
+This was obtained from a modified version of YOLO 11.
