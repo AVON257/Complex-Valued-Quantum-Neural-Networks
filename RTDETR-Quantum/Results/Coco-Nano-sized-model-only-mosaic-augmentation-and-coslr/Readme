@@ -1,1 +1,2 @@
 This is the latest result I have obtained on the Coco dataset with the quantum enhanced version of YOLO with only minimal augmentations and the Adam Optimizer enabled, please see the args.yaml file for details.
+It gets 0.50 on F1 score but around 49.4% map50.
