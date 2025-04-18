@@ -7,3 +7,5 @@ both Quantum Computing Technology and Complex Manifolds.
 Thomas N Toseland.
 
 P.S. Apart from Quantum YOLO everything here can be used by anyone as long as they cite me in their work, Quantum YOLO has it's own License and is identical to the original YOLOv10 repository which is on github.
+
+P.P.S. Please have a look inside the Quantum-RTDETR folder for some results from testing a new YOLOE model on LVIS that is quantum enhanced, with shears and rotations in it, and both segmentation/obb heads on it.
