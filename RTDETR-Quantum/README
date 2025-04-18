@@ -1,4 +1,4 @@
-This is the source code and some results from a modified version of the Ultralytics package with YOLO11 and RTDETR in it.
+This is some of the source code and some results from a modified version of the Ultralytics package with YOLO11 and RTDETR in it.
 https://github.com/ultralytics/ultralytics 
 
 I offer full credit to Ultralytics for their work on this package including both YOLO11 and RTDETR, but I claim the credit for implementing the modified quantum circuits which have been used to make this particular version of the algorithms work.
@@ -15,3 +15,5 @@ Note that this does NOT contain the whole Ultralytics package at this time, but 
 
 There is also a quantum tensor networks version of both YOLO11 and RTDETR algorithms under development at the moment, although at the time of writing RTDETR-Quantum (particularly the XL version of this) doesn't work well on Coco, and is currently being tested on LVIS to see what happens if this is
 attempted.
+
+I have attached results from a prototype for LVIS here and I would like to share that with you. This one has quantum tensor networks in place of the multihead transformer attention layers, and modified loss functions which use complex manifolds, and toroidal coordinates to make it work.
