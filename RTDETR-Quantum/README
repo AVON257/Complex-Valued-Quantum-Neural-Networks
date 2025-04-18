@@ -16,6 +16,6 @@ Note that this does NOT contain the whole Ultralytics package at this time, but 
 There is also a quantum tensor networks version of both YOLO11 and RTDETR algorithms under development at the moment, although at the time of writing RTDETR-Quantum (particularly the XL version of this) doesn't work well on Coco, and is currently being tested on LVIS to see what happens if this is
 attempted.
 
-I have attached results from a prototype for LVIS here and I would like to share that with you. This one has quantum tensor networks in place of the multihead transformer attention layers, and modified loss functions which use complex manifolds, and toroidal coordinates to make it work.
+I have attached results from a prototype for LVIS here and I would like to share that with you. This one has quantum tensor networks in place of the multihead transformer attention layers, and modified loss functions which use complex manifolds to make it work.
 
-Note that this one has been designed to handle demanding scenes with shears and rotations involved. It is based on YOLOE, please see the root directory of my repository for details.
+Note that this one has been designed to handle demanding scenes with shears and rotations involved. It is based on YOLOE, please see the root directory of my repository for details, and the files in this directory to see the training configuration/results.
