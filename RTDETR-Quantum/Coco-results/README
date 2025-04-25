@@ -1,0 +1,1 @@
+This here contains results from Coco which are from the same model as the one trained on LVIS in the previous directory, there was no pretraining on Coco or anything else to achieve this and no fine tuning, it was just evaluated directly on Coco after training on LVIS.
