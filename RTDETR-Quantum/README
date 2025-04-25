@@ -22,3 +22,10 @@ I have attached results from a prototype for LVIS here and I would like to share
 no pretraining on Objects365 or anything else was used.
 
 Note that this one has been designed to handle demanding scenes with shears and rotations involved. It is based on YOLOE, please see the root directory of my repository for details, and the files in this directory to see the training configuration/results.
+
+Research Integrity Statement
+
+This work builds upon the Ultralytics object detection framework (YOLOv11, YOLOE, RT-DETR), with full attribution to their development efforts.
+Technical assistance for code debugging and preliminary drafting was provided through the use of AI services (ChatGPT).
+All core modifications — including the design of novel quantum tensor network architectures, custom loss functions, and the training strategy for rare-class generalization — are original contributions developed by the author.
+The results presented are the outcome of independent research, experimental validation, and critical refinement beyond generated code outputs.
