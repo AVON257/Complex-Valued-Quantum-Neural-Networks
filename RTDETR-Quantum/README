@@ -1,6 +1,8 @@
 This is some of the source code and some results from a modified version of the Ultralytics package with YOLO11 and RTDETR in it.
 https://github.com/ultralytics/ultralytics 
 
+It is a prototype of a prototype being developed in part fulfilment for an MSc in Data Science at the university of St Andrews.
+
 I offer full credit to Ultralytics for their work on this package including both YOLO11 and RTDETR, but I claim the credit for implementing the modified quantum circuits which have been used to make this particular version of the algorithms work.
 
 Please install Pennylane, Pennylane lightning, lightning tensor, pytorch and other standard requirements to use it.
