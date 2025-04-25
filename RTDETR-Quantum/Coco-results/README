@@ -1,3 +1,5 @@
 This here contains results from Coco which are from the same model as the one trained on LVIS in the previous directory, there was no pretraining on Coco or anything else to achieve this and no fine tuning, it was just evaluated directly on Coco after training on LVIS.
 
 These are preliminary results from training the model to around 103 epochs out of 500, with shears/rotations enabled (shears = 30, degrees = 60).
+
+Note that this is in part fullfilment for an MSc at the university of St Andrews.
