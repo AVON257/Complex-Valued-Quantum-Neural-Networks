@@ -1,7 +1,7 @@
 This is some of the source code and some results from a modified version of the Ultralytics package with YOLO11 and RTDETR in it.
 https://github.com/ultralytics/ultralytics 
 
-It is a prototype of a prototype being developed in part fulfilment for an MSc in Data Science at the university of St Andrews.
+It is a prototype being developed in part fulfilment for an MSc in Data Science at the university of St Andrews.
 
 I offer full credit to Ultralytics for their work on this package including both YOLO11, YOLOE and RTDETR, but I claim the credit for implementing the modified quantum circuits/loss functions which have been used to make this particular version of the algorithms work.
 
